@@ -1,0 +1,10 @@
+{
+  "name": "zepto.tapClick",
+  "repository": "https://github.com/marcinbunsch/zepto.tapClick",
+  "description": "A simple plugin to handle click and tap events in a single call",
+  "version": "1.0.0",
+  "devDependencies": {
+    "sinon": "",
+    "mocha": ""
+  }
+}

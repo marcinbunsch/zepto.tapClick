@@ -1,0 +1,27 @@
+{
+  "name": "zepto.tapClick",
+  "version": "1.0.0",
+  "homepage": "https://github.com/marcinbunsch/zepto.tapClick",
+  "authors": [
+    "Marcin Bunsch <marcin.bunsch@gmail.com>"
+  ],
+  "description": "A simple plugin to handle click and tap events in a single call",
+  "main": "src/zepto.tapClick.js",
+  "keywords": [
+    "Zepto",
+    "Touch",
+    "Click",
+    "Tap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zeptojs": "~1.1.2"
+  }
+}
